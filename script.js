@@ -1,4 +1,6 @@
+import { SpeedInsights } from "@vercel/speed-insights/next"
 const menu = document.getElementById("menu")
+
 const cartBtn = document.getElementById("cart-btn")
 const cartModal = document.getElementById("cart-modal")
 const cartItemsContainer = document.getElementById("cart-items")
